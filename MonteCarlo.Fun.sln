@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Montecarlo.Fun", "Montecarlo.Fun\Montecarlo.Fun.csproj", "{1A878528-AFB1-496C-B400-4CAF3B51654B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonteCarlo.Fun.Tests", "MonteCarlo.Fun.Tests\MonteCarlo.Fun.Tests.csproj", "{45A8E978-623A-48C1-96F9-233A9ABF317A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A878528-AFB1-496C-B400-4CAF3B51654B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A878528-AFB1-496C-B400-4CAF3B51654B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A878528-AFB1-496C-B400-4CAF3B51654B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A878528-AFB1-496C-B400-4CAF3B51654B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45A8E978-623A-48C1-96F9-233A9ABF317A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45A8E978-623A-48C1-96F9-233A9ABF317A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45A8E978-623A-48C1-96F9-233A9ABF317A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45A8E978-623A-48C1-96F9-233A9ABF317A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
